@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="membership_types">
+        <item>Annual Gym Membership</item>
+        <item>Monthly Gym Membership</item>
+        <item>Quarterly Gym Membership</item>
+    </string-array>
+    
+    <string-array name="coaches">
+        <item>Pedro Penduko</item>
+        <item>Juan Tamad</item>
+        <item>Maria Clara</item>
+    </string-array>
+</resources>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gym Application</string>
+    <string name="sign_in">Sign In</string>
+    <string name="membership_id">Membership ID</string>
+    <string name="membership_details">Membership Details</string>
+    <string name="name">Name</string>
+    <string name="membership_type">Membership Type</string>
+    <string name="coach">Coach</string>
+    <string name="subscription_date">Subscription Date</string>
+    <string name="subscription_expiration">Subscription Expiration</string>
+    <string name="edit_details">Edit Details</string>
+    <string name="save_details">Save Details</string>
+    <string name="back_to_gym_member_details">Back to Gym Member Details</string>
+    <string name="member_details_updated_successfully">Member Details Updated Successfully</string>
+    <string name="announcements">Announcements</string>
+    <string name="members">Members</string>
+    <string name="exit">Exit</string>
+    <string name="favorites">Favorites</string>
+    <string name="attendance">Attendance</string>
+</resources>
+
